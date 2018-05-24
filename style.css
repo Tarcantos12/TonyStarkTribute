@@ -1,0 +1,38 @@
+p{
+  font-size: 25px;
+  font-family:"Kavivanar";
+}
+
+body{
+  background-color: #ffffcc;
+}
+h1{
+  color: #cc0000;
+  font-family:"Alfa Slab One";
+  font-size: 60px;
+}
+.small-image{
+  border-radius: 45%;
+  border-color: #ffff66;
+  border-width: 20px;
+  border-style: solid;
+  width: 600px;
+}
+.sec-bg{
+  background-color: #ffff99;
+  margin: 20px;
+  padding: 10px;
+}
+.img{
+  width: 100%;
+  height: auto;
+}
+li{
+  font-family: "Kavivanar";
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#text2 {
+  font-size: 20px;
+}
